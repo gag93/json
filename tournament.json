@@ -9,13 +9,13 @@
         "when" : "2018-04-05 13:00:00",
         "thePool" : "A",
         "teamA" : "Jamaica",
-        "teamB" : "Fiji",
+        "teamB" : "Fiji"
         },
         {
         "when" : "2018-04-05 15:00:00",
         "thePool" : "A",
         "teamA" : "Jamaica",
-        "teamB" : "Fiji",
+        "teamB" : "Fiji"
         }
       ]
     }
