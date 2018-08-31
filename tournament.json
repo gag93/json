@@ -1,5 +1,5 @@
 {
-  "Tournament" : "Gold Coast 2018 Commonwealth Games",
+  "name" : "Gold Coast 2018 Commonwealth Games",
   "Sport" : [
     {
       "name" : "Netball",
@@ -7,15 +7,15 @@
       "Match" : [
        {
         "when" : "2018-04-05 13:00:00",
-        "thePool" : "A",
-        "teamA" : "Jamaica",
-        "teamB" : "Fiji"
+        "myPool" : "A",
+        "myTeamA" : "Jamaica",
+        "myTeamB" : "Fiji"
         },
         {
         "when" : "2018-04-05 15:00:00",
-        "thePool" : "A",
-        "teamA" : "Jamaica",
-        "teamB" : "Fiji"
+        "thePool" : "B",
+        "teamA" : "England",
+        "teamB" : "Scotland"
         }
       ]
     }
